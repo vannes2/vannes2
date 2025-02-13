@@ -10,7 +10,9 @@
 
 ---
 
-### 🌍 About Me
+<div align="center">
+    <img src="wpp.gif" alt="Deskripsi GIF" width="500">
+</div>
 
 ---
 

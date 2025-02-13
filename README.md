@@ -19,13 +19,13 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-    <a href="mailto:azzikrapraqasta2@gmail.com">
+    <a href="vanesvernando72@gmial.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/azzikra-praqasta-kusuma-198774271" target="_blank">
+    <a href="https://www.linkedin.com/in/vannes-vernando-38b230334/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://azzikrapraqastakusuma123.github.io/portfolio-personal/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
